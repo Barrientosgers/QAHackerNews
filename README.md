@@ -1,3 +1,6 @@
+# project is complete and it meets the requirements. Thanks!
+
+
 # 🐺 QA Wolf Take Home Assignment
 
 Welcome to the QA Wolf take home assignment for our [QA Engineer](https://www.task-wolf.com/apply-qae) role! We appreciate your interest and look forward to seeing what you come up with.
