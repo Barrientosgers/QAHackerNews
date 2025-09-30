@@ -10,6 +10,7 @@ async function sortHackerNewsArticles() {
   // go to Hacker News
   await page.goto("https://news.ycombinator.com/newest");
   await page.waitForLoadState("domcontentloaded");
+
   // wait for page to load
   await page.waitForSelector(".age");
 
